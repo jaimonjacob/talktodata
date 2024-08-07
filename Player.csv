@@ -1,0 +1,524 @@
+Player_Id,Player_Name,Country,Is_Umpire
+1,SC Ganguly,India,0
+2,BB McCullum,New Zealand,0
+3,RT Ponting,Australia,0
+4,DJ Hussey,Australia,0
+5,Mohammad Hafeez,Pakistan,0
+6,R Dravid,India,0
+7,W Jaffer,India,0
+8,V Kohli,India,0
+9,JH Kallis,South Africa,0
+10,CL White,Australia,0
+11,MV Boucher,South Africa,0
+12,B Akhil,India,0
+13,AA Noffke,Australia,0
+14,P Kumar,India,0
+15,Z Khan,India,0
+16,SB Joshi,India,0
+17,PA Patel,India,0
+18,ML Hayden,Australia,0
+19,MEK Hussey,Australia,0
+20,MS Dhoni,India,0
+21,SK Raina,India,0
+22,JDP Oram,New Zealand,0
+23,S Badrinath,India,0
+24,K Goel,India,0
+25,JR Hopes,Australia,0
+26,KC Sangakkara,Sri Lanka,0
+27,Yuvraj Singh,India,0
+28,SM Katich,Australia,0
+29,IK Pathan,India,0
+30,T Kohli,India,0
+31,YK Pathan,India,0
+32,SR Watson,Australia,0
+33,M Kaif,India,0
+34,DS Lehmann,Australia,0
+35,RA Jadeja,India,0
+36,M Rawat,India,0
+37,D Salunkhe,India,0
+38,SK Warne,Australia,0
+39,SK Trivedi,India,0
+40,G Gambhir,India,0
+41,V Sehwag,India,0
+42,S Dhawan,India,0
+43,L Ronchi,Australia,0
+44,ST Jayasuriya,Sri Lanka,0
+45,DJ Thornely,Australia,0
+46,RV Uthappa,India,0
+47,PR Shah,India,0
+48,AM Nayar,India,0
+49,SM Pollock,South Africa,0
+50,Harbhajan Singh,India,0
+51,S Chanderpaul,West Indies,0
+52,LRPL Taylor,New Zealand,0
+53,AC Gilchrist,Australia,0
+54,Y Venugopal Rao,India,0
+55,VVS Laxman,India,0
+56,A Symonds,Australia,0
+57,RG Sharma,India,0
+58,SB Styris,New Zealand,0
+59,SB Bangar,India,0
+60,WPUJC Vaas,Sri Lanka,0
+61,RP Singh,India,0
+62,WP Saha,India,0
+63,LR Shukla,India,0
+64,DPMD Jayawardene,Sri Lanka,0
+65,S Sohal,India,0
+66,B Lee,Australia,0
+67,PP Chawla,India,0
+68,WA Mota,India,0
+69,Kamran Akmal,Pakistan,0
+70,Shahid Afridi,Pakistan,0
+71,DJ Bravo,West Indies,0
+72,MA Khote,India,0
+73,A Nehra,India,0
+74,GC Smith,South Africa,0
+75,Pankaj Singh,India,0
+76,RR Sarwan,West Indies,0
+77,S Sreesanth,India,0
+78,VRV Singh,India,0
+79,SS Tiwary,India,0
+80,DS Kulkarni,India,0
+81,R Vinay Kumar,India,0
+82,AB Agarkar,India,0
+83,M Kartik,India,0
+84,I Sharma,India,0
+85,AM Rahane,India,0
+86,Shoaib Malik,Pakistan,0
+87,MK Tiwary,India,0
+88,KD Karthik,India,0
+89,R Bhatia,India,0
+90,MF Maharoof,India,0
+91,VY Mahesh,India,0
+92,TM Srivastava,India,0
+93,B Chipli,India,0
+94,DW Steyn,South Africa,0
+95,DB Das,India,0
+96,MK Pandey,India,0
+97,HH Gibbs,South Africa,0
+98,DNT Zoysa,Sri Lanka,0
+99,D Kalyankrishna,India,0
+100,SE Marsh,Australia,0
+101,SA Asnodkar,India,0
+102,Sohail Tanvir,Pakistan,0
+103,Salman Butt,Pakistan,0
+104,BJ Hodge,Australia,0
+105,Umar Gul,Pakistan,0
+106,AB Dinda,India,0
+107,SP Fleming,New Zealand,0
+108,S Vidyut,India,0
+109,JA Morkel,South Africa,0
+110,AB de Villiers,South Africa,0
+111,LPC Silva,Sri Lanka,0
+112,DB Ravi Teja,India,0
+113,Misbah-ul-Haq,Pakistan,0
+114,YV Takawale,India,0
+115,RR Raje,India,0
+116,PJ Sangwan,India,0
+117,Mohammad Asif,Pakistan,0
+118,GD McGrath,Australia,0
+119,Joginder Sharma,India,0
+120,MS Gony,India,0
+121,M Muralitharan,Sri Lanka,0
+122,M Ntini,South Africa,0
+123,DT Patil,India,0
+124,A Kumble,India,0
+125,S Anirudha,India,0
+126,MM Patel,India,0
+127,CK Kapugedera,Sri Lanka,0
+128,A Chopra,India,0
+129,T Taibu,Zimbabwea,0
+130,J Arunkumar,India,0
+131,PP Ojha,India,0
+132,SP Goswami,India,0
+133,SR Tendulkar,India,0
+134,U Kaul,India,0
+135,TM Dilshan,Sri Lanka,0
+136,A Mishra,India,0
+137,AD Mascarenhas,England,0
+138,NK Patel,India,0
+139,LA Pomersbach,Australia,0
+140,Iqbal Abdulla,India,0
+141,Younis Khan,Pakistan,0
+142,PM Sarvesh Kumar,India,0
+143,DP Vijaykumar,India,0
+144,Shoaib Akhtar,Pakistan,0
+145,Abdur Razzak,Bangladesh,0
+146,H Das,India,0
+147,DR Smith,West Indies,0
+148,SD Chitnis,India,0
+149,CRD Fernando,Sri Lanka,0
+150,VS Yeligati,India,0
+151,L Balaji,India,0
+152,A Mukund,India,0
+153,RR Powar,India,0
+154,JP Duminy,South Africa,0
+155,A Flintoff,England,0
+156,T Thushara,Sri Lanka,0
+157,JD Ryder,New Zealand,0
+158,KP Pietersen,South Africa,0
+159,T Henderson,South Africa,0
+160,Kamran Khan,India,0
+161,RS Bopara,England,0
+162,CH Gayle,West Indies,0
+163,MC Henriques,Australia,0
+164,R Bishnoi,India,0
+165,FH Edwards,West Indies,0
+166,KV Sharma,India,0
+167,PC Valthaty,India,0
+168,RJ Quiney,Australia,0
+169,AS Raut,India,0
+170,Yashpal Singh,India,0
+171,M Manhas,India,0
+172,AA Bilakhia,India,0
+173,AN Ghosh,India,0
+174,BAW Mendis,Sri Lanka,0
+175,DL Vettori,New Zealand,0
+176,MN van Wyk,South Africa,0
+177,RE van der Merwe,South Africa,0
+178,TL Suman,India,0
+179,Shoaib Ahmed,Pakistan,0
+180,GR Napier,England,0
+181,KP Appanna,India,0
+182,LA Carseldine,Australia,0
+183,NV Ojha,India,0
+184,SM Harwood,Australia,0
+185,M Vijay,India,0
+186,SB Jakati,India,0
+187,DA Warner,Australia,0
+188,RJ Harris,Australia,0
+189,D du Preez,South Africa,0
+190,M Morkel,South Africa,0
+191,AD Mathews,Sri Lanka,0
+192,J Botha,South Africa,0
+193,C Nanda,India,0
+194,SL Malinga,Sri Lanka,0
+195,Mashrafe Mortaza,Bangladesh,0
+196,A Singh,India,0
+197,GJ Bailey,Australia,0
+198,AB McDonald,Australia,0
+199,Y Nagar,India,0
+200,SS Shaikh,India,0
+201,R Ashwin,India,0
+202,Mohammad Ashraful,Bangladesh,0
+203,CA Pujara,India,0
+204,OA Shah,England,0
+205,Anirudh Singh,India,0
+206,Jaskaran Singh,India,0
+207,AP Tare,India,0
+208,AT Rayudu,India,0
+209,R Sathish,India,0
+210,R McLaren,South Africa,0
+211,AA Jhunjhunwala,India,0
+212,P Dogra,India,0
+213,A Uniyal,India,0
+214,MS Bisla,India,0
+215,YA Abdulla,India,0
+216,EJG Morgan,England,0
+217,JM Kemp,South Africa,0
+218,S Tyagi,India,0
+219,RS Gavaskar,India,0
+220,SE Bond,New Zealand,0
+221,KA Pollard,West Indies,0
+222,S Ladda,India,0
+223,DP Nannes,Australia,0
+224,MJ Lumb,England,0
+225,DR Martyn,Australia,0
+226,S Narwal,India,0
+227,AB Barath,India,0
+228,Bipul Sharma,India,0
+229,FY Fazal,India,0
+230,AC Voges,Australia,0
+231,MD Mishra,India,0
+232,UT Yadav,India,0
+233,J Theron,South Africa,0
+234,SJ Srivastava,India,0
+235,R Sharma,India,0
+236,Mandeep Singh,India,0
+237,KM Jadhav,India,0
+238,SW Tait,Australia,0
+239,KB Arun Karthik,India,0
+240,KAJ Roach,West Indies,0
+241,PD Collingwood,England,0
+242,CK Langeveldt,England,0
+243,VS Malik,India,0
+244,A Mithun,India,0
+245,AP Dole,India,0
+246,AN Ahmed,India,0
+247,RS Sodhi,India,0
+248,DE Bollinger,Australia,0
+249,S Sriram,India,0
+250,B Sumanth,India,0
+251,C Madan,India,0
+252,AG Paunikar,India,0
+253,MR Marsh,Australia,0
+254,AJ Finch,Australia,0
+255,STR Binny,India,0
+256,Harmeet Singh,India,0
+257,IR Jaggi,India,0
+258,DT Christian,Australia,0
+259,RV Gomez,India,0
+260,MA Agarwal,India,0
+261,AUK Pathan,India,0
+262,UBT Chand,India,0
+263,DJ Jacobs,South Africa,0
+264,Sunny Singh,India,0
+265,NJ Rimmington,Australia,0
+266,AL Menaria,India,0
+267,WD Parnell,South Africa,0
+268,JJ van der Wath,South Africa,0
+269,R Ninan,India,0
+270,S Aravind,India,0
+271,MS Wade,Australia,0
+272,TD Paine,Australia,0
+273,SB Wagh,India,0
+274,AC Thomas,England,0
+275,JEC Franklin,New Zealand,0
+276,Shakib Al Hasan,Bangladesh,0
+277,DH Yagnik,India,0
+278,S Randiv,Sri Lanka,0
+279,BJ Haddin,Australia,0
+280,NLTC Perera,Sri Lanka,0
+281,NL McCullum,New Zealand,0
+282,JE Taylor,New Zealand,0
+283,J Syed Mohammad,India,0
+284,RN ten Doeschate,Netherlands,0
+285,TR Birt,Australia,0
+286,AG Murtaza,India,0
+287,Harpreet Singh,India,0
+288,M Klinger,Australia,0
+289,AC Blizzard,Australia,0
+290,I Malhotra,India,0
+291,L Ablish,India,0
+292,CA Ingram,South Africa,0
+293,S Nadeem,India,0
+294,P Parameswaran,India,0
+295,CJ Ferguson,Australia,0
+296,VR Aaron,India,0
+297,AA Chavan,India,0
+298,ND Doshi,India,0
+299,B Kumar,India,0
+300,Y Gnaneswara Rao,India,0
+301,S Rana,India,0
+302,BA Bhatt,India,0
+303,F du Plessis,South Africa,0
+304,RE Levi,South Africa,0
+305,GJ Maxwell,Australia,0
+306,SPD Smith,India,0
+307,MN Samuels,West Indies,0
+308,SA Yadav,India,0
+309,KK Cooper,West Indies,0
+310,JP Faulkner,Australia,0
+311,HV Patel,India,0
+312,DAJ Bracewell,New Zealand,0
+313,DJ Harris,Australia,0
+314,Ankit Sharma,India,0
+315,SP Narine,West Indies,0
+316,GB Hogg,Australia,0
+317,RR Bhatkal,India,0
+318,CJ McKay,Australia,0
+319,N Saini,India,0
+320,DA Miller,South Africa,0
+321,Azhar Mahmood,Pakistan,0
+322,P Negi,India,0
+323,RJ Peterson,South Africa,0
+324,KMDN Kulasekara,Sri Lanka,0
+325,A Ashish Reddy,India,0
+326,V Pratap Singh,India,0
+327,BB Samantray,India,0
+328,MJ Clarke,Australia,0
+329,Gurkeerat Singh,India,0
+330,AP Majumdar,India,0
+331,PA Reddy,India,0
+332,K Upadhyay,India,0
+333,P Awana,India,0
+334,AD Russell,West Indies,0
+335,A Chandila,India,0
+336,CA Lynn,Australia,0
+337,Sunny Gupta,India,0
+338,MC Juneja,India,0
+339,KK Nair,India,0
+340,GH Vihari,India,0
+341,MDKJ Perera,Sri Lanka,0
+342,R Shukla,India,0
+343,B Laughlin,Australia,0
+344,AS Rajpoot,India,0
+345,M Vohra,India,0
+346,JD Unadkat,India,0
+347,Mohammed Shami,India,0
+348,BMAJ Mendis,Sri Lanka,0
+349,R Rampaul,West Indies,0
+350,CH Morris,South Africa,0
+351,SV Samson,India,0
+352,SMSM Senanayake,Sri Lanka,0
+353,BJ Rohrer,Australia,0
+354,KL Rahul,India,0
+355,Q de Kock,South Africa,0
+356,R Dhawan,India,0
+357,MG Johnson,Australia,0
+358,LJ Wright,England,0
+359,IC Pandey,India,0
+360,CM Gautam,India,0
+361,X Thalaivan Sargunam,India,0
+362,DJG Sammy,West Indies,0
+363,KW Richardson,Australia,0
+364,MM Sharma,India,0
+365,UA Birla,India,0
+366,Parvez Rasool,India,0
+367,Sandeep Sharma,India,0
+368,S Kaul,India,0
+369,Sachin Baby,India,0
+370,PV Tambe,India,0
+371,NM Coulter-Nile,Australia,0
+372,CJ Anderson,New Zealand,0
+373,NJ Maddinson,Australia,0
+374,AR Patel,India,0
+375,JJ Bumrah,India,0
+376,JDS Neesham,New Zealand,0
+377,TG Southee,New Zealand,0
+378,MA Starc,Australia,0
+379,BR Dunk,Australia,0
+380,RR Rossouw,South Africa,0
+381,Shivam Sharma,India,0
+382,YS Chahal,India,0
+383,LMP Simmons,West Indies,0
+384,VH Zol,India,0
+385,BCJ Cutting,Australia,0
+386,Imran Tahir,India,0
+387,BE Hendricks,South Africa,0
+388,S Gopal,India,0
+389,M de Lange,South Africa,0
+390,R Tewatia,India,0
+391,JO Holder,West Indies,0
+392,Karanveer Singh,India,0
+393,SS Iyer,India,0
+394,DJ Hooda,India,0
+395,Anureet Singh,India,0
+396,KS Williamson,New Zealand,0
+397,SA Abbott,New Zealand,0
+398,J Suchith,India,0
+399,RG More,India,0
+400,HH Pandya,India,0
+401,D Wiese,South Africa,0
+402,SN Khan,India,0
+403,MJ McClenaghan,New Zealand,0
+404,DJ Muthuswami,India,0
+405,PJ Cummins,Australia,0
+406,SN Thakur,India,0
+407,JC Buttler,England,0
+408,CR Brathwaite,West Indies,0
+409,MP Stoinis,Australia,0
+410,Ishan Kishan,India,0
+411,C Munro,New Zealand,0
+412,P Sahu,India,0
+413,KH Pandya,India,0
+414,AD Nath,India,0
+415,MJ Guptill,New Zealand,0
+416,KJ Abbott,South Africa,0
+417,TM Head,Australia,0
+418,M Ashwin,India,0
+419,NS Naik,India,0
+420,RR Pant,India,0
+421,SW Billings,England,0
+422,KC Cariappa,India,0
+423,PSP Handscomb,Australia,0
+424,Swapnil Singh,India,0
+425,J Yadav,India,0
+426,UT Khawaja,Australia,0
+427,HM Amla,South Africa,0
+428,F Behardien,South Africa,0
+429,BB Sran,India,0
+430,A Zampa,Australia,0
+431,N Rana,India,0
+432,S Kaushik,India,0
+433,ER Dwivedi,India,0
+434,CJ Jordan,England,0
+435,P Amarnath,India,0
+436,B Geeves,Australia,0
+437,Gagandeep Singh,India,0
+438,A Nel,South Africa,0
+439,AM Salvi,India,0
+440,RR Bose,India,0
+441,SS Sarkar,India,0
+442,RA Shaikh,India,0
+443,C Ganapathy,India,0
+444,MB Parmar,India,0
+445,AA Kazi,India,0
+446,Anand Rajan,India,0
+447,P Prasanth,India,0
+448,SS Mundhe,India,0
+449,RW Price,Zimbabwea,0
+450,TP Sudhindra,India,0
+451,BW Hilfenhaus,Australia,0
+452,S Badree,West Indies,0
+453,P Suyal,India,0
+454,MG Neser,Australia,0
+455,V Shankar,India,0
+456,K Santokie,West Indies,0
+457,JW Hastings,Australia,0
+458,TA Boult,New Zealand,0
+459,GS Sandhu,Australia,0
+460,Mustafizur Rahman,Bangladesh,0
+461,AF Milne,New Zealand,0
+462,Kuldeep Yadav,India,0
+463,T Shamsi,South Africa,0
+464,SM Boland,Australia,0
+465,DL Chahar,India,0
+466,P Dharmani,India,0
+467,RV Pawar,India,0
+468,KH Devdhar,India,0
+469,T Mishra,India,0
+470,Asad Rauf,Pakistan,1
+471,MR Benson,England,1
+472,Aleem Dar,Pakistan,1
+473,SJ Davis,England,1
+474,BF Bowden,New Zealand,1
+475,IL Howell,South Africa,1
+476,DJ Harper,Australia,1
+477,RE Koertzen,South Africa,1
+478,BR Doctrove,West Indies,1
+479,AV Jayaprakash,India,1
+480,BG Jerling,South Africa,1
+481,M Erasmus,South Africa,1
+482,HDPK Dharmasena,Sri Lanka,1
+483,S Asnani,India,1
+484,GAV Baxter,New Zealand,1
+485,SS Hazare,India,1
+486,K Hariharan,India,1
+487,SL Shastri,India,1
+488,SK Tarapore,India,1
+489,S Ravi,India,1
+490,SJA Taufel,Australia,1
+491,S Das,India,1
+492,AM Saheba,India,1
+493,PR Reiffel,Australia,1
+494,JD Cloete,South Africa,1
+495,AK Chaudhary,India,1
+496,VA Kulkarni,India,1
+497,BNJ Oxenford,Australia,1
+498,CK Nandan,India,1
+499,C Shamshuddin,India,1
+500,NJ Llong,England,1
+501,RK Illingworth,England,1
+502,RM Deshpande,India,1
+503,K Srinath,India,1
+504,SD Fry,Australia,1
+505,CB Gaffaney,New Zealand,1
+506,PG Pathak,India,1
+507,Nitin Menon,India,1
+508,K Bharatan,India,1
+509,AY Dandekar,India,1
+510,KN Ananthapadmanabhan,India,1
+511,A Nand Kishore,India,1
+512,GA Pratapkumar,India,1
+513,RB Tiffin,Zimbabwea,1
+514,I Shivram,India,1
+515,SD Ranade,India,1
+516,TH Wijewardene,Sri Lanka,1
+517,AL Hill,New Zealand,1
+518,RJ Tucker,Australia,1
+519,Subroto Das,India,1
+520,K Srinivasan,India,1
+521,VK Sharma,India,1
+523,AV Wankhade,India,0
+524,B Aparajith,India,0
